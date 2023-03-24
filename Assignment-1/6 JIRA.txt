@@ -1,0 +1,7 @@
+Steps to create sprint in JIRA:
+1.Create a company managed project in jira software.
+2.Now choose a template like kanban/Scrum for next step.
+3.Raise a issue by selecting epic/story/task type.
+4.Check you backlogs and start a sprint.
+5.From that sprint ,now start managing your sprints by selecting,
+  what is done,what to do today,what has to be done.

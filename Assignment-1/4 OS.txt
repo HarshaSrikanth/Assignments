@@ -1,0 +1,26 @@
+Operating System:
+  An operating system is a collection of software,that operates all the hardware resources and provides services.
+This operating system is responsible for memory management,security,file management,and all the process.
+There are two types of Operating System:
+1.Windows 2.Linux
+
+Commands of linux:
+mkdir
+rmdir
+pwd
+cd
+cat a
+cat > a
+cat >> a
+tac a
+ls
+vim filename
+nano filename
+sh filename.sh
+touch filename
+ls
+cp
+rm
+clear
+chmod +x filename
+ls -l

@@ -1,0 +1,12 @@
+Cloud providers:
+Microsoft azure
+Amazon web services
+IBM
+Google cloud
+Salesforce
+Vmware
+Oracle
+SAP
+Dropbox
+Cisco
+Digital Ocean

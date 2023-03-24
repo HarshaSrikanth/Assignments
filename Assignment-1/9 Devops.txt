@@ -1,0 +1,16 @@
+DevOps tools:
+Jenkins
+Docker
+Ansible
+Puppet
+chef
+Kubernetes
+Git
+Nagios
+Terraform
+Gradle
+Splunk
+Apache maven
+JIra
+Circle CI
+Bamboo

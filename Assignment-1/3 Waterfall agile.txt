@@ -1,0 +1,14 @@
+Waterfall Model:
+  Waterfall model is one of the linear software development approach.In this approach every phase is different
+these phases are followed by designing,coding,testing and deployment.In this waterfall model,we cannot make
+changes easily.we face forward conflicts and there is no software to optimise the process.This approach is good
+
+Agile Methodology:
+  Agile methodology is an iterative approach and also a continous integration and continous deployment approach.
+Each iteration takes a short interval of 1-4 weeks.It is team based and includes every member of team.This approach 
+mainly contains scrum master,scrum team,product owner,sprints,sprint planning,sprint retrospection.In this agile,there
+will stand up/sync up meeting every day to analyse the progress of project.This approach is better than waterfall model.
+
+Dev-Ops:
+Dev-Ops is a combination of development and operational team.In this approach ,there will be continous development,
+continous integration,continous testing,continous deployment.This is the best approach compared to all.

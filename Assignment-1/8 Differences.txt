@@ -1,0 +1,28 @@
+Differences between waterfall,agile and devops:
+ The main difference between agile and waterfall is waterfall approach breaks down development into different 
+phases that flow into each other,where agile follows iterative approach.where devops is approach enables teams
+to build,test and release software faster and which basically follows teams for development.
+
+Difference between scrum and kanban:
+Scrum defines role of each member of team,where as there is no role for team members.scrum follows iterative approach.
+kanban doesnot follow iterative approach.scrum maintains sprints to track the progress of work.In kanban each team member
+has to pick a task and solve it.
+
+Git Vs Bitbucket:
+Git is a distributed version control system,where as bitbucket is web based version control repository service that 
+uses git.
+
+lvcs Vs cvcs Vs dvcs:
+A local version control system is a local database located on your system,in ehich every changes of file are stored.
+A centralised version control system is server which contains all versions of code ,when user needs to work on a code 
+he needs to get code from server,so user/client pulls that code from server/repo to local machine.
+A distributed version control system is similar to cvcs,but every client/user has his own server/repo to pull the code
+and also have the history of code versions.
+
+
+Dos Vs Windows:
+Dos is a operating system ,where windows is a graphical user operating system which  is developed by microsoft.
+Dos uses a command line interface to operate.wimdows has graphical user interface(GUI) and a command line interface.
+Dos is not popular now a days.windows is now widely used all over.Dos is free.Windows is expensive.
+
+ 

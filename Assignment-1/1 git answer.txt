@@ -1,0 +1,7 @@
+STEPS TO PUSH A FILE INTO GITHUB/GITLAB/BITBUCKET USING GIT OPERATIONS
+git init     (to initialise the git)
+git status  (to check the files)
+git add . (to add all the files)
+git commit -m "files added"  (to commit the files to local repo)
+git remote add origin "URL"   (adding the http clone URL from github/gitlab/bitbucket)
+git push -f origin master   (finally pushing file forcefully)

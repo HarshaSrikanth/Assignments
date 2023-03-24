@@ -1,0 +1,62 @@
+Shell Scripting:
+ Shell scripting is nothing but a list of commands in a computer program.that list of commands were run by the Unix shell interpreter
+Many operations are performed by shell scripts like program execution, file manipulation and text printing.
+There are two types of shell:
+1.C Shell
+2.Bourne Shell
+
+Program for hello world:
+#! /bin/bash
+#this is first program
+echo "hello world"
+
+Program for variable:
+#! /bin/bash
+#this is user defined variable
+name="harsha"
+echo "this is my name $name"
+echo -n "enter you name : "
+read name1
+echo "this is name given by console,name is $name1"
+
+#! /bin/bash
+#this is my prog for variable numerical
+echo "enter your 1st number"
+read a
+echo "enter your 2nd number"
+read b
+c=`expr $a + $b`
+echo "sum is: $c"
+
+Program for operators:
+#! /bin/bash
+#this program is for operators
+a=10
+b=20
+sum=`expr $a + $b`
+sub=`expr $a - $b`
+mul=`expr $a \* $b`
+div=`expr $a / $b`
+mod=`expr $a % $b`
+echo "sum:$sum"
+echo "sub:$sub"
+echo "mul:$mul"
+echo "div:$div"
+echo "mod:$mod"
+
+Program for control statements:
+#! /bin/bash
+#to check even or odd
+a=15
+if [ `expr $a % 2` -eq 0  ]
+then
+        echo "even"
+else
+        echo "odd"
+fi
+
+Program for functions:
+function addition(){
+  echo `expr $1 + $2`
+}
+addition 34 45

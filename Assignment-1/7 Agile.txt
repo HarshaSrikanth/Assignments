@@ -1,0 +1,8 @@
+Stages of agile methodology:
+1.Create Epic and Story.
+2.Create Scrum team- (product owner,scrum master,scrum team).
+3.Create sprint plan- (who has to complete,assigned to who,effort time/story point are discussed).
+4.Managing scrum/standup/syncup calls daily on sprints.
+5.Burndownn chart.
+6.Retrospection meeting.
+7.Repeat 3-4 stages for next sprints.
